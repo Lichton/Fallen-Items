@@ -1,0 +1,7 @@
+Name: CakeMod
+Version: 1.0.0
+Author: TheFallenBeholder
+
+DLL: CakeMod.dll
+
+Depends: Base 0.2
